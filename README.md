@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Clasycow o/
-- 👀 I originally started off my CS career in computer forensics and data analysis from using Kali Linux.
+- 👀 I originally started learning computer forensics from using Kali Linux.
 - 🧢 I then taught myself front-end web development by reverse engineering the code on certain websites (SRE).
-- 🌱 I’m currently learning back-end web development, as well as other languages such as python and PHP.
+- 🌱 I’m currently learning back-end web development.
+- 😊 My current website that I am working on is https://clasycow.github.io
 - 📫 You can reach me at clasycow@outlook.com for business inquiries.
-- 
