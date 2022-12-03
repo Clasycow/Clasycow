@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Clasycow o/
+- 👀 I originally started learning computer forensics from using Kali Linux.
+- 🧢 I then taught myself front-end web development by reverse engineering the code on certain websites (SRE).
+- 🌱 I’m currently learning back-end web development.
+- 📫 You can reach me at clasycow@outlook.com for business inquiries.
+- 
